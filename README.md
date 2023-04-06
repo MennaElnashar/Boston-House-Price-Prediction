@@ -7,9 +7,16 @@ https://user-images.githubusercontent.com/78879424/230395644-2e859051-3a70-466d-
 
 
 
+
+
+
 **Python Notebook:**
+
+
 boston-house-price-prediction.ipynb 
 
 
 **Conclusion:**
+
+
 Using XGBoost Machine learning model, I achieved 84% accuracy.
